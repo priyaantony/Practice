@@ -8,6 +8,11 @@ public class TaskGit {
 	public void addJeni()	{
 		System.out.println("pushing to jeni");
 	}
+
+	public void addJeni1() {
+		System.out.println("pushing to jeni1");
+	}
+
 	public void addPriya() {
 		System.out.println("pushing to priya");
 	}
@@ -18,7 +23,8 @@ public class TaskGit {
 		g.addJeni();
 		g.addPriya();
 		
-	
-	}
+		
+		
+}
 	
 }

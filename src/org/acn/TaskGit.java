@@ -16,12 +16,15 @@ public class TaskGit {
 	public void addPriya() {
 		System.out.println("pushing to priya");
 	}
+
+	public void addJeni3() {
+		System.out.println("pushing to jeni3");
+	}
 	
 	private void addPriya1() {
 		System.out.println("push to priya");
 	}
-	
-	
+
 	
 	public static void main(String[] args) {
 		TaskGit g = new TaskGit();

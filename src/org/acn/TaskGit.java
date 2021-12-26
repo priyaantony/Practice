@@ -17,6 +17,10 @@ public class TaskGit {
 		System.out.println("pushing to priya");
 	}
 	
+	public void addJeni2() {
+		System.out.println("pushing to jeni2");
+	}
+	
 	public static void main(String[] args) {
 		TaskGit g = new TaskGit();
 		g.addMaster();
